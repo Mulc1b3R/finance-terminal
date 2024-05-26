@@ -6,6 +6,9 @@ Up to the minute market data in your finance terminal via api - no key required.
 
 Global Financial Market News and Data updated prior to European Markets Open , US Market open , Market wrap , Asia Pacific Open.
 Market data pushed to your terminal via api , no need to search the web for yesterdays news ...
+Data belongs to everyone.Level the playing field with the Finance Terminal.
+Retro Green screen.
+Dynamic DATA Delivery.
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 * Commodities
