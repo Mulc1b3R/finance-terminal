@@ -20,3 +20,11 @@ ________________________________________________________________________________
 * Breaking news
 ******************************************************************************************************************************************************************************************  
 https://psicodata.io/API/finance/index.html
+******************************************************************************************************************************************************************************************
+# Method 
+Upload the index.html to server and visit url in you browser , to get uo to date market news pushed to your terminal.
+Click ```retrieve data``` .
+No coding , config or setup required . 
+This is what Retail traders have been waiting for , no api key needed , no login or sign up , no adverts , just bang up to the minute market data streamed to your screen...
+This terminal is a revolution in the way Retail traders can access data , if you are interested in the markets , this is for you...
+*****************************************************************************************************************************************************************************************
