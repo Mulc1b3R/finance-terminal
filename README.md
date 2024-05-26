@@ -19,7 +19,8 @@ ________________________________________________________________________________
 * Fixed income
 * Breaking news
 ******************************************************************************************************************************************************************************************  
-https://psicodata.io/API/finance/index.html
+ Visit:  https://psicodata.io/API/finance/index.html  
+ or host it youself, just follow the method below. 
 ******************************************************************************************************************************************************************************************
 # Method 
 Upload the index.html to server and visit url in you browser , to get uo to date market news pushed to your terminal.
