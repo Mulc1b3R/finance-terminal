@@ -39,6 +39,8 @@ This terminal is a revolution in the way Retail traders can access data , if you
 * Online txt2json here : https://psicodata.io/gateway/converters/txt2json.html
 * Upload folder to server
 * Visit url in browser.
+****************************************************************************************************************************************************************************************
+![Alt text](snake.svg)
 
 *****************************************************************************************************************************************************************************************
 Copyright © 2023 Psico Communications and Blockchain Development.
