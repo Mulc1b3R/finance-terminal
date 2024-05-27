@@ -1,0 +1,16 @@
+{
+    "messages": [
+        {
+            "category": "Commodities",
+            "message": "Message for Commodities category"
+        },
+        {
+            "category": "Stocks",
+            "message": "Message for Stocks category"
+        },
+        {
+            "category": "Forex",
+            "message": "Message for Forex category"
+        }
+    ]
+}
