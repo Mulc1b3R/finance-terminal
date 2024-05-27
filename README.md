@@ -31,6 +31,14 @@ Click ```start retrieval``` .
 No coding , config or setup required . 
 This is what Retail traders have been waiting for , no api key needed , no login or sign up , no adverts , just bang up to the minute market data streamed to your screen...
 This terminal is a revolution in the way Retail traders can access data , if you are interested in the markets , this is for you...
+# Self hosting
+* Clone the repo
+* x
+* x
+* x
+* editing...
+
+
 *****************************************************************************************************************************************************************************************
 Copyright © 2023 Psico Communications and Blockchain Development.
 __________________________________________________________________________________________________________________________________________________________________________________________
