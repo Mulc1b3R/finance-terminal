@@ -36,6 +36,7 @@ This terminal is a revolution in the way Retail traders can access data , if you
 * Populate ```'data.json'``` with your market data.(add more entries as required).
 * x Add favicon
 * You can convert txt to json with the script provided (it will work from your desktop as a stand alone).
+* Online txt2json here : https://psicodata.io/gateway/converters/txt2json.html
 * Upload folder to server
 * Visit url in browser.
 
