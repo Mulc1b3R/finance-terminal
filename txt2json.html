@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+   <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text to Json</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" type="image/png" a href="favicon.png">
+	<style type="text/css">
+
+      body {
+			background:black;
+		    color: white;
+      }
+</style>
+</head>
+<body>
+<center><h3>convert text to json</h3>
+
+<br><br>
+    <textarea id="inputText" rows="10" cols="50"></textarea><br>
+    <button onclick="convertToJson()">Convert to JSON</button>
+
+    <script>
+        function convertToJson() {
+            const text = document.getElementById('inputText').value;
+            const jsonData = { "message": text };
+            const jsonDataString = JSON.stringify(jsonData, null, 2);
+
+            const a = document.createElement('a');
+            const file = new Blob([jsonDataString], {type: 'application/json'});
+            a.href = URL.createObjectURL(file);
+            a.download = 'message.json';
+            a.click();
+        }
+    </script>
+	<br><br>  <br><br>
+metamask address ; 0x63673528404C9B9394d4Ec6FA037ED825c8b0faa
+  <br><br><br><br>
+  Copyright © 2023 Psico Communications and Blockchain Development.
+  
+  <br><br>
+  <br><br>
+  
+  
+ Licensed under the Apache License, Version 2.0
+
+<br><br>
+<br><br>	
+<br><br><a href="http://www.apache.org/licenses/LICENSE-2.0 ">Apache ; </a>
+</center>
+</body>
+</html>
