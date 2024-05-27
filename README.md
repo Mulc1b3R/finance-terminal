@@ -32,12 +32,12 @@ No coding , config or setup required .
 This is what Retail traders have been waiting for , no api key needed , no login or sign up , no adverts , just bang up to the minute market data streamed to your screen...
 This terminal is a revolution in the way Retail traders can access data , if you are interested in the markets , this is for you...
 # Self hosting
-* Clone the repo
-* x
-* x
-* x
-* editing...
-
+* Clone the repo or download the .zip and unzip it (7zip).
+* Populate ```'data.json'``` with your market data.(add more entries as required).
+* x Add favicon
+* You can convert txt to json with the script provided (it will work from your desktop as a stand alone).
+* Upload folder to server
+* Visit url in browser.
 
 *****************************************************************************************************************************************************************************************
 Copyright © 2023 Psico Communications and Blockchain Development.
